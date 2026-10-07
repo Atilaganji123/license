@@ -15,5 +15,4 @@ d45536021066   # MAHDI
 a44ca9b39ac1   # Atila
 e0e0cd68dd02   # Atila
 user:aaaa   # AAAA
-user:atila   # Atila
 before:1791416652   # all licenses issued until 1405/07/16  03:14
