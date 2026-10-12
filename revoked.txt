@@ -21,5 +21,6 @@ edf40ec1dddf   # Atila
 21e6938a6606   # AfshinKurd
 d784408b24a2   # Azrael
 8de1a0159e31   # Afshin
+606c77ee1e4e   # Afshin
 user:aaaa   # AAAA
 before:1791416652   # all licenses issued until 1405/07/16  03:14
