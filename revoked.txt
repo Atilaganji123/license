@@ -4,24 +4,6 @@ d554dd8f10d9   # Atila
 8297f59e8d57   # afshin
 d67ff464937e   # AAAA
 6496f9bbaa75   # Afshin
-d74830735291   # arash
-2b4fc8794cd3   # arash
-d45536021066   # MAHDI
-70751eab0c08   # MMD
-173c1a3979d2   # Afshin
-0ddcaccd9d93   # Atila
-5ba2263a83e1   # Atila
-44d9a9744948   # Atila
-a44ca9b39ac1   # Atila
-e0e0cd68dd02   # Atila
-9acc346091c4   # Atila
-c90329cf344e   # Atila
-edf40ec1dddf   # Atila
-92715cc1e040   # halozhen
-21e6938a6606   # AfshinKurd
-d784408b24a2   # Azrael
-8de1a0159e31   # Afshin
-606c77ee1e4e   # Afshin
-0e721ed2a28a   # Afshin
-user:aaaa   # AAAA
-before:1791416652   # all licenses issued until 1405/07/16  03:14
+c97701f89998   # Taha
+user:aaaa   # از GitHub
+before:1791416652   # از GitHub
